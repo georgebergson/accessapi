@@ -36,10 +36,9 @@ Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/georgebergson/accessapi
     cd AcessAPI
     ```
-    (Substitua `<URL_DO_SEU_REPOSITORIO>` pela URL real do seu repositório Git.)
 
 2.  **Configure o Ambiente:**
     O arquivo `docker-compose.yml` já está configurado para subir o serviço da API e um banco de dados MySQL.
